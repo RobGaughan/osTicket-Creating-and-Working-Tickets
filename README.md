@@ -71,6 +71,27 @@ Now we will be simulating jane who is on the online banking team and we will wor
 
 logout as john and log back in as jane
  
-username: `jane`
-password: `osTicketPassword123!`
+username: `jane`  
+password: `osTicketPassword123!`  
+
+Even though john assigned the ticket to the online banking team lets reassign it to jane because she will working the ticket
+
+![image](https://github.com/user-attachments/assets/9738e64f-7431-4bb6-899a-02c55aa8f1bc)
+
+Jane will now update the customer/end-user on what she suspects the problem might be keeping the customer in the loop and letting the customer know that thier inquiry is being looked into
+
+![image](https://github.com/user-attachments/assets/5aa0ff92-c029-4e67-87d1-04d377291cde)
+
+In this made up scenario Jane was right it was the update that was preventing users from logging in and she rolled the update back so that the customers could access the banking systems
+
+Now she will update the customer: 
+
+![image](https://github.com/user-attachments/assets/8cb4d96b-6a37-41a9-af19-518d70fb244c)
+
+Then she closes the ticket:
+
+![image](https://github.com/user-attachments/assets/335ea23c-cd1e-40cd-99aa-b3d3deb082b4)
+
+
+
 
