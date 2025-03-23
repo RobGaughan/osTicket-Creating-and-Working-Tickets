@@ -34,6 +34,6 @@ I have created a ticket as karen describing an online banking system being down:
 Navigate to http://localhost/osTicket/scp/login.php
 
 login as agent John Doe:
-Username: `
-Password
+Username: `john`  
+Password `osTicketPassword123!`
 
