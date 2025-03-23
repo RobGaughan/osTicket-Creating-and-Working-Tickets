@@ -19,6 +19,8 @@ This lab builds off of: [osTicket: Post Installation Configuration](https://gith
 1. As an end-user create a ticket
 2. As a Help Desk Agent, observe the ticket’s properties
 3. Set Properties to the ticket
+4. Work the ticket, communicate with customers
+5. Close ticket
 
 
 ## Configuration
