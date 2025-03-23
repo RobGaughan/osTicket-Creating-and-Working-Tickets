@@ -29,11 +29,32 @@ I have created a ticket as karen describing an online banking system being down:
 
 ![image](https://github.com/user-attachments/assets/c958b676-fa5a-4adb-b16b-f5f13600559e)
 
-## As a Help Desk Agent, observe the ticket’s properties
+### As a Help Desk Agent, observe the ticket’s properties
 
 Navigate to http://localhost/osTicket/scp/login.php
 
-login as agent John Doe:
+login as agent John Doe:  
+
 Username: `john`  
 Password `osTicketPassword123!`
+
+#### Observe the ticket end-user karen created
+
+As you can see everything is set to default including, priority, "assigned to" and SLA
+
+![image](https://github.com/user-attachments/assets/13722557-2a17-443e-b6b8-5aa049626918)
+
+Because of the severity of this ticket mainly because end users can't access a system (online banking) I will configure the following: 
+
+Update the SLA Plan to Sev-A the most severity SLA so the issue will be worked on ASAP
+
+![image](https://github.com/user-attachments/assets/cadbffb7-c6c3-4119-9d15-f7e05b04c6e6)
+
+
+Update the help topic to "Business Critical Outage" because "" isnt as relevant for this ticket
+
+![image](https://github.com/user-attachments/assets/101aed75-c2b5-47e6-bef0-015516d85894)
+
+
+
 
