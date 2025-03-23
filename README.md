@@ -93,5 +93,14 @@ Then she closes the ticket:
 ![image](https://github.com/user-attachments/assets/335ea23c-cd1e-40cd-99aa-b3d3deb082b4)
 
 
+### Observe the completed ticket:
+
+As you can see osTicket created a log of all the communications and status changes when we worked the ticket
+
+![image](https://github.com/user-attachments/assets/fb9f7400-b4ca-49e2-91ce-22040575aacf)
+
+
+Thats it for this lab we have successfully created and worked a ticket to completion!
+
 
 
