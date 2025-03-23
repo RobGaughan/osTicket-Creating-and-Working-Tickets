@@ -42,7 +42,7 @@ Password `osTicketPassword123!`
 
 #### Observe the ticket end-user karen created
 
-As you can see everything is set to default including, priority, "assigned to" and SLA
+As you can see everything is set to default including "assigned to" and SLA
 
 ![image](https://github.com/user-attachments/assets/13722557-2a17-443e-b6b8-5aa049626918)
 
