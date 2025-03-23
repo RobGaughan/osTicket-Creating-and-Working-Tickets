@@ -65,4 +65,12 @@ As you can see towards the bottom a log was created for each entry we changed
 
 ![image](https://github.com/user-attachments/assets/5c562c96-aafe-41eb-aee7-93630bea81ce)
 
+### login as jane and work the ticket
+
+Now we will be simulating jane who is on the online banking team and we will work the ticket
+
+logout as john and log back in as jane
+ 
+username: `jane`
+password: `osTicketPassword123!`
 
