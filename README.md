@@ -25,4 +25,15 @@ This lab build off of: [osTicket: Post Installation Configuration](https://githu
 
 Navigate to http://localhost/osTicket/open.php
 
-Create a ticket as karen:
+I have created a ticket as karen describing an online banking system being down:
+
+![image](https://github.com/user-attachments/assets/c958b676-fa5a-4adb-b16b-f5f13600559e)
+
+## As a Help Desk Agent, observe the ticket’s properties
+
+Navigate to http://localhost/osTicket/scp/login.php
+
+login as agent John Doe:
+Username: `
+Password
+
