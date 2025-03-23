@@ -51,10 +51,18 @@ Update the SLA Plan to Sev-A the most severity SLA so the issue will be worked o
 ![image](https://github.com/user-attachments/assets/cadbffb7-c6c3-4119-9d15-f7e05b04c6e6)
 
 
-Update the help topic to "Business Critical Outage" because "" isnt as relevant for this ticket
+Update the help topic to "Business Critical Outage" because "Report a prolbem" isnt as relevant for this ticket
 
 ![image](https://github.com/user-attachments/assets/101aed75-c2b5-47e6-bef0-015516d85894)
 
+Next I will assign the ticket to the online banking team
 
+![image](https://github.com/user-attachments/assets/905071a0-7394-4388-bf8a-d601668807dd)
+
+Now let observe the changes made: 
+
+As you can see towards the bottom a log was created for each entry we changed 
+
+![image](https://github.com/user-attachments/assets/5c562c96-aafe-41eb-aee7-93630bea81ce)
 
 
