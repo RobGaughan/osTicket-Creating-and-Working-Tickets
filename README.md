@@ -1,6 +1,8 @@
-# osTicket-Creating-and-Working-Tickets
+# osTicket: Creating and Working Tickets
 
-This lab build off of: [osTicket: Post Installation Configuration](https://github.com/RobGaughan/osTicket-Post-Installation-Configuration)
+In this lab we will be highlighting the life cycle of tickets in a ticketing system
+
+This lab builds off of: [osTicket: Post Installation Configuration](https://github.com/RobGaughan/osTicket-Post-Installation-Configuration)
 
 ## Environments and Technologies Used
 
